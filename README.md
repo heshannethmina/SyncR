@@ -67,3 +67,5 @@ Security problems go to a [private advisory](https://github.com/heshannethmina/S
 ---
 
 Built for better technical conversations.
+
+> **Note:** The contact details in `web/components/Footer.tsx` (`CONTACT_PLACEHOLDER`) are placeholders. Remove or replace them with real details before deploying — a footer with no contact column is better than one with invented contact information.
