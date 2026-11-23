@@ -31,7 +31,7 @@ jobs:
   label:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/labeler@v5
+      - uses: actions/labeler@v7
         with:
           # Labels are added, never removed. Someone who labels a pull
           # request by hand has made a decision, and a bot undoing it on the
